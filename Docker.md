@@ -1,4 +1,4 @@
-##Docker basic commands
+## Docker basic commands
 - docker –version[^1]
 - docker pull <image name>[^2]
 - docker run[^3]
@@ -19,7 +19,7 @@
 - docker rmi <image-id>[^14]
 - docker build <path to docker file>[^15]
 
-####Description:
+#### Description:
 [^1]: This command is used to get the currently installed version of docker
 [^2]: This command is used to pull images from the docker repository [DockerHub](https://hub.docker.com/)
 [^3]: This command is used to create a container from an image
