@@ -1,4 +1,4 @@
-##Dotnet commands
+## Dotnet commands
 - dotnet new console
 
-> refrence:[Microsoft dotnet](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet) 
+> Refrence: [Microsoft dotnet](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet) 
